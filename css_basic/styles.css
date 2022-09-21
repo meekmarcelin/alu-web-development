@@ -1,0 +1,20 @@
+body, main {
+    display: flex;
+}
+body {
+    flex-direction: column;
+    background-color: rgb(30, 30, 68);
+    color: black
+}
+main {
+    flex: auto
+}
+article {
+    flex: 2;
+}
+aside {
+    flex: 1
+}
+article, aside {
+    overflow-y: auto;
+}
