@@ -1,0 +1,3 @@
+## Website projects
+# This is a combination of files that contribute to the project of full and usable business website.
+![website!](https://www.google.com/imgres?imgurl=https%3A%2F%2Fingenxt.com%2Fwp-content%2Fuploads%2F2020%2F12%2Fwebdesign-services-why-i-should-have-a-website-for-my-business.jpg&imgrefurl=https%3A%2F%2Fingenxt.com%2F4-stages-of-website-design%2F&tbnid=BK4w-Kj2iowXLM&vet=12ahUKEwic4NjhgLP6AhUDM1kFHX_qC00QMygTegUIARCGAg..i&docid=u8GlGeeDa76T5M&w=1292&h=646&q=website%20design&ved=2ahUKEwic4NjhgLP6AhUDM1kFHX_qC00QMygTegUIARCGAg) 
