@@ -1,0 +1,120 @@
+body {position: relative;
+    width: 1440px;
+    height: 3718px;
+    background-color: aliceblue;
+}
+/* header */
+header {
+    position: absolute;
+    width: 1103.41px;
+    height: 29.46px;
+    left: 171.59px;
+    top: 35.02px;
+}
+/* headings */
+/* menu */
+.menu {
+    position: absolute;
+    width: 234px;
+    height: 15px;
+    left: 1041px;
+    top: 37px;
+}
+/* logo */
+.logo {
+    position: absolute;
+    width: 167.02px;
+    height: 29.46px;
+    left: 171.59px;
+    top: 35.02px
+}
+.section {
+    max-width: 1100px;
+    margin-right: auto;
+    margin-left: auto;
+}
+/* quotes */
+.quote {
+    background-color: #C271FF;
+    position: relative;
+    top: -70px;
+    padding-top: 120px;
+    padding-bottom: 120px;
+    display: flex;
+    justify-content: center;
+    gap: 56px;
+    align-items: center;
+    margin-bottom: 16px;
+}
+.quote__text {
+    max-width: 730px;
+    margin-bottom: 22px;
+}
+.videos {
+    margin-bottom: 86px;
+}
+.videos__title {
+    text-align: center;
+}
+.videos__dr {
+    display: flex;
+    gap: 30px;
+    margin-top: 75px;
+}
+.videos__ds {
+    flex: 1;
+}
+.videos__dt {
+    margin-top: 18px;
+    margin-bottom: 8px;
+    padding-right: 14px;
+    padding-left: 13px;
+}
+.videos__dm {
+    margin-bottom: 14px;
+    padding-right: 14px;
+    padding-left: 13px;
+}
+.videos__dm{
+    display: flex;
+    gap: 14px;
+    margin-bottom: 14px;
+    padding-right: 14px;
+    padding-left: 13px;
+}
+.videos__item-img-wrapper {
+    position: relative;
+}
+.play {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    margin: auto
+}
+.member__00{
+    position: absolute;
+    height: 40px;
+    left: 42.85%;
+    right: 40.9%;
+    top: calc(50% - 40px/2 - 161px);
+    font-family: 'Source Sans Pro';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 40px;
+    text-align: center;
+    color: #C271FF;
+}
+.member__2 {
+    position: absolute;
+    height: 26px;
+    left: 0.19%;
+    right: 0.19%;
+    top: calc(50% - 26px/2 - 1.5px);
+    font-family: 'Source Sans Pro';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 26px;
